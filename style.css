@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.heading {
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+}
+.container img {
+  width: 180px;
+  border-radius: 50%;
+  margin-right: 3rem;
+  border: 2px solid red;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1600px;
+  gap: 4rem;
+  margin: 4rem auto;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 28px 24px;
+  position: relative;
+ box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+ border-radius: 15px;
+}
+.item h1,h2,p{
+    margin-bottom: 1rem;
+}
+.item a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 35px ;
+    background-color: red;
+    color: #fff;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+.item h2{
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    position: absolute;
+    right: .5rem;
+    top: .5rem;
+    transform: rotate(15deg);
+}
+.item a:hover{
+    background-color: rgb(132, 5, 5);
+    transition: 0.5s;
+}
+
+@media  screen and (max-width:1389px) {
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 700px;
+    }
+    
+}
+@media  screen and (max-width:450px) {
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 350px;
+
+    }
+    .item{
+        height: 350px;
+    }
+    
+}

@@ -1,0 +1,35 @@
+1 Margherita Pizza
+Description: A delicious classic Margherita pizza with a crispy thin crust, topped with rich tomato sauce, fresh mozzarella cheese, and a sprinkle of basil leaves.
+
+2 Pepperoni Pizza
+Description: A popular Pepperoni pizza with a golden-brown crust, loaded with tangy tomato sauce, gooey mozzarella cheese, and plenty of spicy pepperoni slices.
+
+3 BBQ Chicken Pizza
+Description: A savory BBQ Chicken pizza featuring a crispy crust, topped with tangy barbecue sauce, juicy grilled chicken, red onions, and mozzarella cheese.
+
+4 Veggie Pizza
+Description: A colorful Veggie pizza on a crispy crust, loaded with tomato sauce, mozzarella cheese, bell peppers, onions, olives, mushrooms, and fresh spinach.
+
+5 Hawaiian Pizza
+Description: A delightful Hawaiian pizza with a golden crust, topped with tomato sauce, mozzarella cheese, juicy pineapple chunks, and savory ham slices.
+
+6 Meat Lovers Pizza
+Description: A hearty Meat Lovers pizza with a thick crust, loaded with tomato sauce, mozzarella cheese, pepperoni, sausage, ham, bacon, and ground beef.
+
+7 Four Cheese Pizza
+Description: A rich Four Cheese pizza with a crispy crust, topped with a blend of mozzarella, cheddar, parmesan, and gorgonzola cheeses, along with a hint of garlic.
+
+8 Buffalo Chicken Pizza
+Description: A spicy Buffalo Chicken pizza with a crispy crust, covered in buffalo sauce, topped with mozzarella cheese, grilled chicken, red onions, and a drizzle of ranch dressing.
+
+9 Spinach and Feta Pizza
+Description: A gourmet Spinach and Feta pizza with a thin, crispy crust, topped with creamy white sauce, fresh spinach leaves, crumbled feta cheese, and a hint of garlic.
+
+10 Mushroom and Truffle Pizza
+Description: An elegant Mushroom and Truffle pizza with a crispy crust, covered in creamy white sauce, topped with sautéed mushrooms, truffle oil, mozzarella cheese, and fresh parsley.
+
+11 Sausage and Peppers Pizza
+Description: A flavorful Sausage and Peppers pizza with a golden crust, topped with tomato sauce, mozzarella cheese, spicy Italian sausage, and a mix of red, green, and yellow bell peppers.
+
+12 Seafood Pizza
+Description: A gourmet Seafood pizza with a thin, crispy crust, topped with tomato sauce, mozzarella cheese, shrimp, calamari, clams, and a sprinkle of fresh herbs.
